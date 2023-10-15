@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="25bc9bf4-3274-46ea-801a-38ac703d177f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Mage/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/Mage..iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mage/src/Main.java" afterDir="false" />
+    <list default="true" id="25bc9bf4-3274-46ea-801a-38ac703d177f" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/../Mage/src/Mage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mage/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Mage/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Mage" />
@@ -39,6 +42,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -69,9 +73,20 @@
       <option name="presentableId" value="Default" />
       <updated>1697357865018</updated>
     </task>
+    <task id="LOCAL-00001" summary="cycxyc">
+      <option name="closed" value="true" />
+      <created>1697358184001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697358184001</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="cycxyc" />
+    <option name="LAST_COMMIT_MESSAGE" value="cycxyc" />
   </component>
 </project>
